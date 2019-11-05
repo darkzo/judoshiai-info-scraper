@@ -19,7 +19,8 @@ The script will create five files:
 `tatami4.txt`
 `tatami5.txt`
 
-The files will contain info about competitors of ongoing match or the file will be empty if there is not match on tatami.
+The created files will contain info about competitors of ongoing match. 
+If there is no match on tatami corresponding file will be empty.
 
 Example of single file:
 ```
