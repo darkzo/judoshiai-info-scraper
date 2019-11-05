@@ -1,0 +1,16 @@
+{
+  "name": "judoshiai-info-scraper",
+  "version": "1.0.0",
+  "description": "Extract competitors data from JudoShiai info web viewer",
+  "main": "info-scraper.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darko Zelenika",
+  "license": "ISC"
+}
